@@ -1,5 +1,5 @@
 # Android Studio
-Name: Kelola Data Mahasiswa
+Name: Kelola Data Mahasiswa;
 Programming Language: Java
 
 # Desc
